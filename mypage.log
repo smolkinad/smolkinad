@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Личная страница Дарьи Смолькиной</title>
+	 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8">
+		<meta name="description" content="Личная страница и контакты">
+		<!-- Bootstrap Core CSS -->
+    	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	</head>
+	<body>
+		<nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+			<div class="container"> 
+				<div class="navbar-header"> 
+					<a href="https://ling.hse.ru/" class="navbar-brand">Школа лингвистики НИУ ВШЭ</a> 
+				</div> 
+			 
+			</div>
+		</nav>
+		<header style="background-color:#ffccff; padding-top:70px; "> 
+			<div class="container"> 
+				<div class="row">
+					<div class="col-md-4">
+						<br/><br/>
+						<h1>Дарья Смолькина</h1>
+						<hr>
+						<p><i>Абитуриент ФИКЛ, недостендапер, начинающий бизнесмен.</i></p>
+						<p><i>Люблю котиков, книги Паланика и рассветы на море.</i></p>
+						<i><p>Разочарована в современном искусстве и себе. </i></p> 
+	                </div>
+					<div class="col-md-4">
+        	            <img src="https://github.com/smolkinad/smolkinad/blob/master/%D1%8D%D1%82%20%D1%8F.jpg?raw=true" title="Моё фото" alt="" style="height:604px; width:403px;  " >
+					</div>
+	            </div>
+			</div>
+		</header>
+		<section id="portfolio">
+			<div class="container">
+				<div class="col-md-3">
+					<article>
+						<h3>Место учебы</h2>
+						<p>НИУ ВШЭ</p>
+					</article>
+					
+				</div>
+				<div class="col-md-6">
+					<article>
+						<h3>Обо мне</h2>
+						<p> Много говорю, плохо готовлю, владею навыком прокрастинации в совершенстве.
+						</p>
+					</article>
+				</div>
+				<div class="col-md-3">
+					<h3>Мои контакты в социальных сетях</h3>
+					<ul>
+						<li>VK: vk.com/smolkinad </li>
+						<li>Instagram: @smolkinad </li>
+					</ul>
+				</div>
+			</div>
+		</section>
+	</body>
+</html>
