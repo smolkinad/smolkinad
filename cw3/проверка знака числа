@@ -1,0 +1,10 @@
+inter_num = int(input("Вводи") )
+
+for i in range(inter_num):
+    a = int(input("vvodi"))
+    if a>0:
+        print("Больше нуля, отвечаю")
+    elif a<0:
+        print("Меньше, ну")
+    else:
+        print("Эт ноль")
