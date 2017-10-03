@@ -1,0 +1,8 @@
+num = int(input("Vvedite"))
+
+my_sum = 0
+for k in range(num+1):
+    my_sum += k
+    print(k, "my_sum =", my_sum)
+    
+print(my_sum)
