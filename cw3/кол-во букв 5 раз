@@ -1,0 +1,6 @@
+
+for i in range(5):
+    word = input("A?")
+    print(len(word) )
+
+print ('End')
