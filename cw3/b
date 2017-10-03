@@ -1,0 +1,9 @@
+word = 'Добрый день!'
+print(word)
+
+my_sum = 0
+for i in range (3, 20, 2):
+    my_sum +=i
+    print(i, "my_sum=", my_sum)
+print(my_sum)
+print("End")
