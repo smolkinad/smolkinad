@@ -1,0 +1,14 @@
+f = open("имя файла", encoding="utf-8")
+text = f.read()
+f.close()
+text=text.split(" ")
+lenmax = 0
+lenmin = 99
+for word in text:
+    lencur = len(word)
+# переменная "lencur" введена, чтобы не вызывать функцию len() больше 1 раза и увеличить скорость работы программы
+    if lencur > lenmax:
+        lenmax = lencur
+    if lencur < lenmin:
+        lenmin = lencur
+print("Cамое длинное слово в", lenmax/lenmin, "раз больше самого короткого")
