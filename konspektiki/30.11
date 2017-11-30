@@ -1,0 +1,85 @@
+Функции
+
+
+def hello(user1):
+''' eto funkcia '''
+    print('hello, ' + user1 + '!')
+    return user1.title()
+
+user_title = hello('ann')
+
+print(user_title)
+    
+    
+    ___________________
+    
+    def hello(user1):
+    ''' печатает по букве на строчке, потом считает и выводит кол-во символов '''
+    print('hello, ' + user1 + '!')
+    return user1.title()
+
+def elements(word):
+    ''' '''
+    for l in word:
+        print(1)
+    print(len(word) )
+
+elements ("word")
+
+sent = 'functions are useful'
+words = sent.split()
+#elements(els)
+    
+___________
+
+def tokenize(sentence):
+    words = sentence.split()
+    return words
+
+sent = 'functions are useful'
+tok_result = tokenize(sent)
+print(tok_result)
+
+for w in tok_result:
+    print(w.upper())
+
+def lines_div(fname):
+   '''otkryt prochest razdelit'''
+   with open(fname, encoding="utf-8") as f:
+       lines_raw = f.readlines()
+   lines = []
+   for line in lines_raw:
+       clear_line = line.strip()
+       if clear_line:
+           lines.append(clear_line)
+
+   return lines
+
+lines = lines_div('C:\\Users\\student\\Desktop\\aaa.txt')
+
+
+
+__________
+НЕ РАБОТАЕТ: 
+
+def lines_div(fname):
+   '''открыть файл, прочесть, разделить на строки, вернуть минимальную длину строки в символах'''
+   with open(fname, encoding='utf-8') as f:
+       lines_raw = f.readlines()
+   lines_lengths = []
+   for line in lines_raw:
+       clear_line = line.strip()
+       if clear_line:
+           print(len(clear_line), clear_line)
+           lines_lenghts.append(len(clear_line))
+
+   return min(lines_lenghts)
+
+
+min_1 = lines_div('C:\\Users\\student\\Desktop\\aaa.txt')
+
+print(min_1)
+
+print(lines)
+
+
