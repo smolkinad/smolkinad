@@ -3,7 +3,7 @@ a = input('Введите слово: ')
 b = []
 while a != '':
     b.append(a)
-    a = input('Cлово: ')
+    a = input('Введите слово: ')
 with open('txt.txt', 'w', encoding="utf-8") as f:
     for i in enumerate(b):
         if len(i[1]) > 5:
