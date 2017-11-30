@@ -9,3 +9,4 @@ with open('txt.txt', 'w', encoding="utf-8") as f:
         if len(i[1]) > 5:
            with open('txt.txt', 'a', encoding="utf-8") as f:
                f.write(i[1])
+               f.write('\n')
