@@ -7,5 +7,14 @@ with open('C:/Users/student/Desktop/freq.txt','r', encoding='utf-8') as f:
             print(line)
     form = line.split(' ')
 
-
+print("Задание №2")
+with open('C:/Users/student/Desktop/freq.txt','r', encoding='utf-8') as f:
+    lines = f.readlines()
+    s = 0
+    for line in lines:
+        form = line.split('|')
+        if form[1] == ' част ':
+            print(' ', form[0], ',', end = '')
+            s += float(form[2])
+    print (s)
 
