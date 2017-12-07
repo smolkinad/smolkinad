@@ -1,0 +1,13 @@
+#1:
+
+freq=[]
+with open('C:/Users/student/Desktop/freq.txt','r', encoding='utf-8') as f:
+    lines = f.readlines()
+    for line in lines:
+        if 'перех' in line:
+            print(line)
+    form = line.split(' ')
+
+#2:
+
+
