@@ -15,6 +15,6 @@ with open('C:/Users/student/Desktop/freq.txt','r', encoding='utf-8') as f:
         form = line.split('|')
         if form[1] == ' част ':
             print(' ', form[0], ',', end = '')
-            s += float(form[2])
+            s = s + float(form[2])
     print (s)
 
