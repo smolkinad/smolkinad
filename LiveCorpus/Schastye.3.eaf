@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2017-12-10T05:04:08+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:78cf565e-f650-4587-b81b-e4904f5ad63e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">36</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10003"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="10190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="10230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="10816"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="20190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="40014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="40070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="50014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="56859"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="61478"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="62309"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="67225"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="67253"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="70957"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="71014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="77563"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="77591"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="102014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="102056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="108450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="114985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="120136"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="120239"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="125204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="126000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="127045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="127181"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="134454"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="136000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="155999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="156230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="174600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="174900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="187900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="188000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="212400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="213000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="227800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="228000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="241600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="241800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="250900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="260400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="270600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="270800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="270800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="279600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="280000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="280900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="283240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="286907"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="287166"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="293351"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="299259"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="299611"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="299888"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="306018"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="314481"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="﻿Я@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE> 	Всё, начинаем. на пять минут вспомни 3 своих самых счастливых момента в жизни.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="Антон@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE> 	Ну, самые.. это сложно..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>	Ну, наверное, первый счастливый момент - это когда я в седьмом классе учился, тогда мы только пришли в лицей и там было, прям, пять классов наших с седьмого по одиннадцатый, и все на нас смотрели одиннадцатиклассники в столовой, что это за мелочь здесь ходит, а нам было прикольно, у нас, там, тусовки разные были: сходить в Капитолий или че-то типа того.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>	И было очень весело, непринуждённо, и не было столько проблем, всякие экзамены, и, в общем, весёлая пора.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>	Это вообще было нечто!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>	Я первого января и сижу играю, в этот, "Черепашки ниндзя".</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>	Мне говорят: "Идём есть", я такой: "Сейчас, сейчас", и час сидел.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>	Вот, а третье - это, наверное, когда я сейчас поступил в университет, вот эта первая неделя.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>	Я каждый день ходил по университету счастливый нереально, то есть, там, общаешься с людьми, там, какие-то аудитории, не аудитории, тот движ и потом я каждый день приходил домой ватный и ложился спать, пытался поспать где-то 8 часов, и мне этого не хватало.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>	И я каждый день вставал такой бодрый и вечером прихожу вообще никакой.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>	Ну, в общем, очень хорошо...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>	Три минуты...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>	Ну, могу рассказать про то как я жил в разных городах...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>	Есть, ну... Я просто вспоминаю тот момент, когда я переезжал из маленького города в большие, ну, из маленького города в большой, там, соответственно, несколько городов же поменял, и, когда ты переезжаешь из маленького города в большой, тебе очень неприятно от того ощущения, что у тебя здесь вся компания, все друзья, и ты не можешь их с собой забрать, и тебе очень грустно.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>	Но потом, когда ты уже прилетаешь, вот, в новую квартиру, в новый город, тебе первое, ну, как, проезд от аэропорта до дома - это, наверное, самое страшное, что может быть.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>	Потом, получается, следующий день, когда ты выходишь на улицу и пытаешься осмотреться, тебе кажется, что ты в каком-то сне ходишь, и первые, не знаю, три месяца такое состояние.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>	И... потом ты уже постепенно осваиваешься, ну, осваиваешься, всё больше город узнаёшь, там, район, в котором ты живёшь, и... очень интересно общаться с разными людьми, у которых... ну, разные менталитет и культура речи, и... по-другому они друг с другом коммуницируют, и... это очень серьёзный опыт.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>	На самом деле, это, наверное, тоже один из моих счастливых моментов, когда я переезжал в большие города, допустим, когда переехал в Москву, мне тут сначала было страшно идти от школы.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>	Здесь, ну, как бы, я сейчас знаю, как идти от школы до дома, и... а я, это, обошел на это, ну, где-то сделал крюк в пять километров и пошёл потом по тому маршруту, как меня везли на машине, то есть, ну, бред.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>	По дворам я шёл с опаской, потому что, там, после этих Иркутсков всяких... очень было неприятно...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>	Ну, как сказать, все-таки видна разница... между мной и друзьями, потому что они не поступили даже в хороший университет в Иркутске..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>	...А я поступил.. Нет, я про иркутских друзей.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>	Они не смогли в Иркутске даже поступить там куда-то, а, ну, получается... я и в школу, ну, в лицей хороший поступил, и в университет хороший поступил.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>	Я когда, ну, общаюсь, там, пытаюсь что-нибудь спросить, там.. как-нибудь... "Когда ты поедешь в Москву?", они мне говорят: "Нет, я здесь, в Иркутске, и я никуда не собираюсь".</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>	В общем, и сложно людей так сдвигать... ой, сдвигать... воодушевлять на переезды, потому что это очень сложно.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="Я@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>	А ты попробуй.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>	Ещё три момента каких-нибудь, ещё три минуты.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>	А-а, про иркутских друзей, поняла.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>	Понятно...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>	Понятно. Ну все, спасибо большое за... интревью, да.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="paragraph" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="association" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="subdivision" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
