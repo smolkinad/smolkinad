@@ -1,0 +1,44 @@
+def fname():
+    fname = input('Введите название файла: ')
+    return fname
+
+def read_file(fname):
+    with open(fname, encoding = 'utf-8') as f:
+        return remove(f.read().lower()).split()
+        
+    for punct in [',', '.', ':', ';', '…', '—', '!', '?', '/', '"', '«', '»']:
+        if punct in text:
+            text = text.replace(punct, '')
+    wordsintext = text.split()
+    return wordsintext
+
+def di(wordsintext):
+    di = {}
+    for word in wordsintext:
+        if word.endswith('ness'):
+            if word in di:
+                di[word] += 1
+            else:
+                di[word] = 1
+    return di
+
+def count(di):
+    count = 0
+    for word in di:
+        count += di[word]
+    return count
+
+def maxim(di):
+    wordsintext = sorted(di, key = di.get, reverse = True)
+    return wordsintext[0]
+
+def pr():
+    print('Всего существительных на -ness:', count((di(wordsintext(read_file(fname))))),
+    '/nСамое распространенное:', maxim(di(wordsintext(read_file(fname)))))
+    return pr
+
+if __name__ == '__main__':
+    maxim(di)
+    count(di)
+    di(wordsintext)
+    pr()
