@@ -22,7 +22,7 @@ def di(wordsintext):
                 di[word] = 1
     return di
 
-def count(di):
+def countt(di):
     count = 0
     for word in di:
         count += di[word]
@@ -39,6 +39,6 @@ def pr():
 
 if __name__ == '__main__':
     maxim(di)
-    count(di)
+    countt(di)
     di(wordsintext)
     pr()
