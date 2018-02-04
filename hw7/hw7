@@ -33,7 +33,7 @@ def maxim(di):
     return wordsintext[0]
 
 def pr():
-    print('Всего существительных на -ness:', count((di(wordsintext(read_file(fname))))),
+    print('Всего существительных на -ness:', countt((di(wordsintext(read_file(fname))))),
     '/nСамое распространенное:', maxim(di(wordsintext(read_file(fname)))))
     return pr
 
