@@ -25,7 +25,7 @@ def start_print():
     print('Угадайте пропущенное слово')
     print(hint[guessed_word], dots, sep = '', end = '')    
     
-def check_is_right(user_answer):
+def check_if_right(user_answer):
     if user_answer == guessed_word.strip():
         print('Да, это так!')
     else:
@@ -38,4 +38,4 @@ guessed_word = choose_word(hint)
 start_print()
 user_answer = input()
 
-check_is_right(user_answer)
+check_if_right(user_answer)
